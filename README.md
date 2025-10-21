@@ -1,5 +1,5 @@
 # Face Recognition app
-Build a facial recognitioni app to authenticate into an application. Implemented a model using deep learning with tensorflow, shown in paper titled Siamese Neural Network for One-shot Image Recognition and integrated it into a kivy app. 
+Build a facial recognition app to authenticate into an application. Implemented a model using deep learning with tensorflow, shown in paper titled Siamese Neural Network for One-shot Image Recognition and integrated it into a kivy app. 
 
 ### 1. Setup 
 
